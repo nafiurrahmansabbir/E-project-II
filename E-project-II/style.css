@@ -1,0 +1,7 @@
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.row{
+    margin-top: 5%;
+}
